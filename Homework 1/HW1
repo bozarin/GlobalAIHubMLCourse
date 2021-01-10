@@ -1,1 +1,63 @@
 
+1)IMO ML is us giving an ability to machines to learn which results in their devolopment. 
+
+2)Supervised Learning means that a machine is learning withing given information which includes answers too. SL is used when our label is a continous variable.
+They can see and learn how to respond to a specific or a similar question with those given answers and datas. 
+Eg: Regression problems , random forest for classification , vector machines. 
+
+
+3)Unsupervised Learning means machine is learning by given data but instead of giving answers no answer is given. 
+There is no goal . The aim is to discover data patterns.
+Eg: Customer segments , clustering problems , apriori algorithm 
+
+4)Validation set: examples that are given which is used to control the parameter classifiers. We need them because they help us to select parameter also to avoid overfitting . 
+  Test Set : group of examples used to assess the performance of a fully defined classifier. We need them because give us an unbiased evaluation of our final product. 
+
+5) Information flow within AI module goes like ; 
+ Firslty we define our prject in question. We import data libraries then we explore datas.Later on we pre process our data which is followed by model building. 
+ After on , we move on to our model deployment then model management and prediction. Our final part is evaluating our results. 
+
+However , if we want to make a project our steps would be 
+gathering information / data - preparation step - choosing our parameters and models - testing - evaulating - tuning - predcition and final model decision 
+
+Gathering data 
+As mentioned in its name we gather data at this step. We look for datas that are suitable for project. 
+Quality and quantity quality matter a lot because they also define our model's quality. 
+
+Preparing Data 
+We load our data and preapre it for our ml project. We can also make visualations of our data to see any relationships 
+
+Preprocess 
+We check our datas which means we look whether there are any imbalanced data , wrongly repeated values or missing values. We also detect outliers. Scalling , binning , extraction , encoding , cross validitation and validation also happen at this step. 
+
+
+6) Continous variable means that in the measurement we took , there are no one point  but lowest and highest points. We can use unlimited number of values. 
+  Supervised learning is used if we are working with cont var. 
+
+discrete variables can take on specific values only unlike continious who can take unlimited no of values. 
+Discrete variable can be used in modelling of binary and multiclass classification problems. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quantitative data displayed over time . Line charts , graphs , tables and maps can be used. 
+    Quant. data gives us info that we can measure that we can  express with numbers. 
+ 
